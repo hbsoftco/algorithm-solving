@@ -1,2 +1,1 @@
 # algorithm-solving
-# algorithm-solving
